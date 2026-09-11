@@ -1,0 +1,8 @@
+{
+  "name": "Cell Architecture Studio",
+  "description": "Enhanced educational 3D cell browser with interactive organelle exploration, microscope modes, time-lapse cycle, quizzes, and spaced repetition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

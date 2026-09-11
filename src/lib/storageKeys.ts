@@ -1,0 +1,17 @@
+export const STORAGE_KEYS = {
+  THEME: 'cas-theme',
+  DARK_MODE: 'cas-dark-mode',
+  PROGRESSION: 'cas-progression',
+  FAVORITES: 'cas-favorites',
+  NOTEBOOKS: 'cas-notebooks',
+  FLASHCARDS: 'cas-flashcards',
+  KEYBINDINGS: 'cas-keybindings',
+  LANGUAGE: 'cas-language',
+  WELCOME_DISMISSED: 'cas-welcome-dismissed',
+  TOUR_COMPLETED: 'cas-welcome-dismissed',
+  SELECTED_CELL: 'cas-selected-cell',
+  SELECTED_CELL_ID: 'cas-selected-cell',
+  SELECTED_ORGANELLE: 'cas-selected-organelle',
+  MATERIAL_MODE: 'cas-material-mode',
+  RECENT_EXPORTS: 'cas-recent-exports',
+} as const;
